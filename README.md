@@ -1,12 +1,12 @@
-gulp-ractive [![Build Status](https://travis-ci.org/maxgalbu/gulp-ractive.svg?branch=ractive-0.6)](https://travis-ci.org/maxgalbu/gulp-ractive)
+gulp-ractive [![Build Status](https://travis-ci.org/maxgalbu/gulp-ractive.svg?branch=ractive-0.9)](https://travis-ci.org/maxgalbu/gulp-ractive)
 ============
 
 ### Installation and Ractive versions
 
-This branch of the plugin uses ractive 0.8.x. To install this version, use:
+This branch of the plugin uses ractive 0.9.x. To install this version, use:
 
 ```
-npm install gulp-ractive@0.8 --save-dev
+npm install gulp-ractive@0.9 --save-dev
 ```
 
 ### Usage
